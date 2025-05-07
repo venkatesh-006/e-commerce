@@ -1,0 +1,21 @@
+.nav-container {
+    width: 100%;
+  }
+  
+  .nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 40px;
+  }
+  
+  .logo {
+    width: 160px;
+    height: 60px;
+    object-fit: contain;
+  }
+  .storelogo{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+  }
